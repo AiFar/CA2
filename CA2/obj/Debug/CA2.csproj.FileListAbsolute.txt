@@ -1,0 +1,6 @@
+/Users/aidenfarrell/OneDrive - Atlantic TU/Year 2/OOP S1/CA2./CA2/CA2/obj/Debug/CA2.csproj.AssemblyReference.cache
+/Users/aidenfarrell/OneDrive - Atlantic TU/Year 2/OOP S1/CA2./CA2/CA2/obj/Debug/CA2.csproj.CoreCompileInputs.cache
+/Users/aidenfarrell/OneDrive - Atlantic TU/Year 2/OOP S1/CA2./CA2/CA2/bin/Debug/CA2.exe
+/Users/aidenfarrell/OneDrive - Atlantic TU/Year 2/OOP S1/CA2./CA2/CA2/bin/Debug/CA2.pdb
+/Users/aidenfarrell/OneDrive - Atlantic TU/Year 2/OOP S1/CA2./CA2/CA2/obj/Debug/CA2.exe
+/Users/aidenfarrell/OneDrive - Atlantic TU/Year 2/OOP S1/CA2./CA2/CA2/obj/Debug/CA2.pdb
